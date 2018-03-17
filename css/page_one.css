@@ -1,0 +1,27 @@
+body{
+    background-color: #999999;
+}
+nav{
+  border-radius: 6%;
+    background-color: #333333;
+}
+ul{
+    display: inline-block;
+    background-color:#666666 ;
+    width: 96%;
+    min-height: 1%;
+    max-height: 20%;
+    padding: 2%;
+    
+    border-radius: 22%;
+}
+nav ul li {
+    border-radius: 2%;
+    margin: 7%;
+    margin-top: 0%;
+    display: inline-block;
+    width: 5%;
+    background-color: #73a53c ;
+    padding: 0.3%;
+
+}
